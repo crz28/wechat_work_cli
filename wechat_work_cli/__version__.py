@@ -1,5 +1,5 @@
 __title__ = 'wechat_work_cli'
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = 'crz28'
 __url__ = 'https://github.com/crz28/wechat_work_cli'
 __author_email__ = ''
