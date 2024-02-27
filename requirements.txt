@@ -1,1 +1,5 @@
 wechat_work
+requests
+requests-toolbelt
+twine
+build
