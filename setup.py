@@ -2,7 +2,7 @@ import pathlib
 from setuptools import setup, find_packages
 here = pathlib.Path(__file__).parent
 # require = (here / "requirements.txt").read_text(encoding='utf-8').split()
-require = ['requests', 'requests_toolbelt']
+require = ['requests', 'requests_toolbelt', "wechat_work"]
 readme = (here / "README.md").read_text(encoding='utf-8')
 about = {}
 exec((here/'wechat_work_cli'/'__version__.py').read_text(encoding='utf-8'), about)
